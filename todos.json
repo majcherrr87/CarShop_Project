@@ -1,0 +1,36 @@
+{
+  "basicInfo": [
+    {
+      "id": "1",
+      "name": "value1",
+      "identifier": "value1",
+      "position:": "1"
+    },
+    {
+      "id": "2",
+      "name": "value2",
+      "identifier": "value2",
+      "position": "2"
+    }
+  
+  ],
+  "allOption": [
+    {
+      "id": "1",
+      "name": "1",
+      "price": "100",
+      "partId": "lorem",
+      "category": "lorem"
+    }
+  ],
+  "detailsInfo": [
+    {
+      "id": "1",
+      "firstName": "1",
+      "lastName": "100",
+      "email": "lorem",
+      "value": "lorem",
+      "details:": "lorem"
+    }
+  ]
+}
